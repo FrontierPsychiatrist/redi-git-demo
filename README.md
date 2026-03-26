@@ -1,3 +1,3 @@
-# My great project
+# My greeter project
 
-Run via `node src/index.js`!
+Run via `node src/index.js Moritz`!
