@@ -1,2 +1,2 @@
-const name = process.argv[2] ?? 'world'
+const name = process.argv[2] ?? 'universe';
 console.log(`Hello, ${name}!`)
